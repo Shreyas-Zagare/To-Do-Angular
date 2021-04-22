@@ -16,3 +16,5 @@ Now you can visit http://localhost:8080 to view your application
 Use the following link to directly view the website on any brower
 https://todo-shreyas.web.app/ 
 
+Entire project link
+https://github.com/Shreyas-Zagare/To-Do-Hosting.git
