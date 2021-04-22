@@ -12,3 +12,7 @@ Then inside your project directory(in the terminal) just run
 http-server todo
 
 Now you can visit http://localhost:8080 to view your application
+
+Use the following link to directly view the website on any brower
+https://todo-shreyas.web.app/ 
+
